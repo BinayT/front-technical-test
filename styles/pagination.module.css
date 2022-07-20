@@ -1,0 +1,12 @@
+.pagination {
+    display: flex;
+    list-style-type: none;
+}
+
+.page {
+    margin: 10px;
+}
+
+.pageLink {
+    cursor: pointer;
+}
